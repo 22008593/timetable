@@ -140,3 +140,6 @@ Execute the program
 # OUPUT
 
 ![output](vishvatimetable.png)
+
+## RESULT
+Thus the experiment is completed successfully
